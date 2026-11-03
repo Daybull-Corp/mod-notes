@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/danielgtaylor/huma/v2 v2.40.0
-	github.com/daybull-corp/admin-sdk v0.2.0
+	github.com/daybull-corp/admin-sdk v0.3.0
 	github.com/jackc/pgx/v5 v5.11.0
 )
 
